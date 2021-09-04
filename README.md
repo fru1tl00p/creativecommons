@@ -44,3 +44,5 @@ Available Data:
 MIDI file: Autumn II - Vivaldi.mid
 
 --------
+
+CC-BY-SA 3.0 - effective 2021.09.01
